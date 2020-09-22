@@ -4,7 +4,7 @@ I am Fulton Browne, A devoloper out to change the world through open source soft
 
 I have an open source voice assistant for android called ara, it has an android [app](https://github.com/FultonBrowne/Ara-android), a [server](https://github.com/FultonBrowne/Ara-Server) written in java and kotlin, and an NLP (natural language processing) [backend](https://github.com/FultonBrowne/ara-nlp) written in python.
 
-I also enjoy working with linux and UNIX systems, I have a mksh based shell called [fksh](https://github.com/FultonBrowne/fksh), a power managment utility called [fpm](https://github.com/FultonBrowne/fpm), and I also have this distro but I dont talk abot it yet (its going to rock).
+I also enjoy working with linux and UNIX systems, I have a mksh based shell called [fksh](https://github.com/FultonBrowne/fksh), a power managment utility called [fpm](https://github.com/FultonBrowne/fpm), and I also have this distro called pine linux, its suckless, staticly linked, and uses the kiss package manager.
 
 At this time I am learning about blockchain, cryptography, and lower level programming languages.
 
