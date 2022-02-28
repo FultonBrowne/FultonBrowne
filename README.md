@@ -1,5 +1,5 @@
 I'm Fulton Browne, A 17 year old (class o' 2023) programmer.
 
-I like crypto and AI
+Isn't deep learning cool?
 
-more soon......
+It's almost friday...
