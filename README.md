@@ -4,7 +4,7 @@
 - I love all things AI, backend, and cryptography
 - Played with just about every programming language and love trying new ones
 - Mac user, Linux fan, Windows hater
-- Edits in VS code and will only use a dark theme
+- Edits in JetBrains anyting and will only use a dark theme
 
 Wanna see more then my code?
 
