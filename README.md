@@ -11,7 +11,7 @@ A CS freshman at Samford university in Birmingham, AL and a senior software engi
 - 📸 While I'm a hiking I love taking photos and I have a little too many film camera
 - 🚙 I'm also a big fan of cars (mostly jeeps) and I have a lot of fun with my rig
 
-### 🔖 Wanna see more then my code?
+### 🔖 Wanna see more than my code?
 
 - 📖 Read my [blog](https://fultonsramblings.substack.com/)
 - 🌐 Check out my [website](https://fulton.software)
