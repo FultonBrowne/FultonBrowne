@@ -18,6 +18,4 @@ A CS freshman at Samford university in Birmingham, AL and a senior software engi
 - 🗣️Yell at me on [Twi.., X!](https://twitter.com/BrowneFulton)
 - 🤝 Hire me on [LinkedIn](https://www.linkedin.com/in/fulton-browne-925a20245/)
 
-![Fulton's GitHub stats](https://github-readme-stats.vercel.app/api?username=FultonBrowne&show=reviews&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FultonBrowne&hide_progress=true&theme=dracula)
 
