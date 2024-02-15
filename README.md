@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Fulton Browne
-A CS freshman at Samford university in Birmingham, AL and a senior software engineer at [Neonaut](https://neonaut.io/). I've been coding for a little while and you can find about 60% of what I've written, projects I've half done, and random things I forked here.
+A CS freshman at Samford university in Birmingham, AL and do software enginnering for Shurburt and [Neonaut](https://neonaut.io/). I've been coding for a little while and you can find about 60% of what I've written, projects I've half done, and random things I forked here.
 ### 👨‍💻 What kind of technologies have you worked with?
 - 🕸️ On the web side of things I'm well versed in backend full stack with a wide variety of frameworks in Java, Rust, Go, and Python
 - 🔥 I've been working with transformer based language models since 2019 and almost everything I do in my free time these days works with them in some way
